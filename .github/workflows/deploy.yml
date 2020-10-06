@@ -19,3 +19,4 @@ jobs:
           SERVER_IP: ${{ secrets.SERVER_IP }}
           USERNAME: ${{ secrets.USERNAME }}
           SERVER_DESTINATION: ${{ secrets.SERVER_DESTINATION }}
+          SERVER_PORT: ${{ secrets.SERVER_PORT }}
